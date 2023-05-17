@@ -1,6 +1,6 @@
 # Virtual Machine
 
-**Project droped, working on a new one.**
+**This is a legacy code from: https://github.com/bernardopadua/virtual-machine**
 
 It's a very simple virtual machine with basic operations. It works as a page application to interact with virtual arbitrary data.
 The virtual machine is just at the beggining point with the client-side only. Next goal is to build a server in golang to interconnect with other virtual machines.
